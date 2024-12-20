@@ -80,3 +80,4 @@ best practices?
 #### Solution
 - My solution was to group by how many movies each director has, then filter by those who have more than the threshold.
 - I also did a test case to make sure it is working correctly.
+- I also added the dockerfile and docker-compose.yml to lift and manipulate in a better way the created service.
