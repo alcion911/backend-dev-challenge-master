@@ -76,3 +76,7 @@ The solution can be shared via .zip file or sharing a github repository url via 
 - Bonus Points: Does the candidate implement any of the bonus features or additional
 best practices?
 - Describe on Readme.md if any improvement was left out and why
+
+#### Solution
+- My solution was to group by how many movies each director has, then filter by those who have more than the threshold.
+- I also did a test case to make sure it is working correctly.
